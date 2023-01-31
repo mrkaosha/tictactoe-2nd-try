@@ -2,7 +2,9 @@
     "name": "TicTacToe 2nd Try",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
     },
     "files": [
         "main.blocks",
